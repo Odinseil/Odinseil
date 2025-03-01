@@ -4,7 +4,7 @@
 -Le développement de jeu sous unity en c#. ⌨️<br>
 -Le game design dans le jeu vidéo. 🎮
 
-## 🌐 Mes réseaux sociaux:
+## Mes réseaux sociaux:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tongas_unity) 
 
 # 💻 Compétences techniques:
