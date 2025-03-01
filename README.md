@@ -5,8 +5,11 @@
 -Le game design dans le jeu vidéo. 🎮
 
 ## Mes réseaux sociaux:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tongas_unity) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tongas_unity) 👈
+<br>
+<br>
+<a href="https://odinseil.itch.io">
+  <img src="https://static.itch.io/images/logo-white-new.svg" alt="Logo itch.io" width="70"/></a> 👈
 # 💻 Compétences techniques:
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="Logo C#" width="50"/>
 <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Logo Python" width="100"/>
