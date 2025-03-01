@@ -1,5 +1,8 @@
 # 💫 A propos de moi:
-😀Bonjour, je suis Gaston et je m'intéresse a :<br>    -La programmation python. 🐍<br>    -Le développement de jeu sous unity en c#. ⌨️<br>    -Le game design dans le jeu vidéo. 🎮
+😀Bonjour, je suis Gaston et je m'intéresse a :<br>
+-La programmation python. 🐍<br>
+-Le développement de jeu sous unity en c#. ⌨️<br>
+-Le game design dans le jeu vidéo. 🎮
 
 ## 🌐 Mes réseaux sociaux:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tongas_unity) 
