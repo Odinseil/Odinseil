@@ -5,7 +5,7 @@
 -Le game design dans le jeu vidéo. 🎮
 
 ## 🌐 Mes réseaux sociaux:
-[![Instagram](https://github.com/Odinseil/Odinseil/blob/main/Sans%20titre%202.png) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tongas_unity) 
 
 # 💻 Compétences techniques:
 ![C#](https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg) ![Python](https://www.python.org/static/community_logos/python-logo.png)  ![.Net](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/150px-Microsoft_.NET_logo.svg.png) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Markdown]()
