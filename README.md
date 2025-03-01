@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tongas_unity) 
 
 # 💻 Compétences techniques:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
+![C#](https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg) ![Python](https://www.python.org/static/community_logos/python-logo.png)  ![.Net](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/150px-Microsoft_.NET_logo.svg.png) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Markdown]()
 
 [![](https://visitcount.itsvg.in/api?id=Odinseil&icon=1&color=2)](https://visitcount.itsvg.in)
 
