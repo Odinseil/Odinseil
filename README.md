@@ -6,7 +6,7 @@
 
 ## Mes réseaux sociaux:
 <a href="https://instagram.com/tongas_unity">
-  <img src="" alt="Logo instagram" width="90"/></a> 👈
+  <img src="https://github.com/Odinseil/Odinseil/blob/main/Instagram-Logo-No-Background.png" alt="Logo instagram" width="90"/></a> 👈
 <br>
 <br>
 <a href="https://odinseil.itch.io">
