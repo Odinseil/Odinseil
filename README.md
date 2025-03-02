@@ -5,7 +5,8 @@
 -Le game design dans le jeu vidéo. 🎮
 
 ## Mes réseaux sociaux:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tongas_unity) 👈
+<a href="https://instagram.com/tongas_unity">
+  <img src="https://github.com/Odinseil/Odinseil/blob/main/Instagram-Logo-No-Background.png" alt="Logo itch.io" width="90"/></a> 👈
 <br>
 <br>
 <a href="https://odinseil.itch.io">
