@@ -1,7 +1,7 @@
 # A propos de moi:
 😀Bonjour, je suis Gaston et je m'intéresse a :<br>
 -La programmation python. 🐍<br>
--Le développement de jeu sous unity en c#. ⌨️<br>
+-Le développement de jeu sous unity et godot en c#. ⌨️<br>
 -Le game design dans le jeu vidéo. 🎮
 
 ## Mes réseaux sociaux:
